@@ -29,3 +29,16 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+
+app
+bin
+config
+db
+lib
+log
+public
+storage
+test
+tmp
+vendor
